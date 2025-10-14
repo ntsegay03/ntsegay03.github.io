@@ -48,8 +48,3 @@ With the Seahawks being one of the youngest franchises in the NFL, they have not
 - [Seahawks Hall of Fame Players](https://www.seahawks.com/team/pro-football-hall-of-fame/)
 - [Seahawks Ring of Honor](https://www.seahawks.com/ring-of-honor/)
 - [Seahawks top 50 players ](https://50.seahawks.com/?_gl=1*784phb*_ga*MTc0NjEzODQ5Ni4xNzYwNDIxNjcw*_ga_Z75VDJF1JJ*czE3NjA0MjE2NjkkbzEkZzEkdDE3NjA0MjI0MzYkajkkbDAkaDA.)
-
-## References
-1. Reference 1
-2. Reference 2
-3. Reference 3
